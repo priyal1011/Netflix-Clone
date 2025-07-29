@@ -1,0 +1,102 @@
+*{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+} 
+.navbar{
+    /* display: block;  */
+    height: 35px;
+    background-color: white;
+    padding: 22px 5px;
+    display: flex;
+    justify-content: flex-end; 
+} 
+#logo1{
+    margin-right: 25px;
+}
+#first{
+  background-color: transparent;
+  border: none;
+  margin-right: 20px;
+  font-size: 19px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.container{
+    margin-top: 85px;
+    text-align: center;
+    padding: 25px;
+}
+#sec{
+    line-height: 1;
+    padding: 10px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(56, 55, 55);
+}
+#thir{
+    line-height: 1;
+    color: #333333;
+    font-size: 32px;
+    font-weight: 700;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#four{
+    padding: 10px;
+    font-size: 18px;
+    color: rgb(56, 55, 55);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: normal;
+}
+#next{
+    margin-bottom: 25px;
+    border-radius: 4px;
+    width: 320px;
+    height: 60px;
+    /* margin-left: 495px;  */
+    text-align: center;
+    font-size: 24px;
+    background-color: rgb(221, 5, 5);
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color: rgb(221, 5, 5);;
+} 
+.bottom{
+    background-color: #f3f3f3;
+    height: 210px;
+}
+#five{
+    padding: 30px;
+    font-size: 15px;
+    color: #737373;
+    font-weight: 500;
+}
+#foot{
+    padding: 25px;
+    font-size: 15px;
+    margin-left: 150px;
+    color: #737373;
+}
+#call{
+    color: #737373;
+    font-size: 17px;
+
+}
+#dropbox{
+    margin-left: 50px;
+    border-radius: 0px;
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    
+}
+#six{
+    padding: 25px;
+    margin-left: 131px;
+    font-size: 15px;
+    color: #737373;
+} 
+
+
